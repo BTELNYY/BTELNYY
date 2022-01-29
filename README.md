@@ -1,4 +1,4 @@
-# Hello there
+# Hello There
 * I am a programmer from Canada who takes interest in C# and Java.
 * If you are here for something, check out my pinned repos.
 * Join my [Discord](https://discord.gg/P22tFkjTm3)
