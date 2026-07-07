@@ -12,4 +12,5 @@
 * PowerShell: ? Years, Self taught, learnt becuase its better than batch scripting
 
 # Contact
-* Just add me on discord. Or open an issue in any of my repos (if you are trying to reach me about a repo or project)
+* Discord: `btelnyy`
+* Email: `btelnyy@outercatalyst.ca`
