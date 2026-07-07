@@ -5,10 +5,10 @@
 * Timezone: `CST`
 
 # Experience
-* C#: 4+ Years, developing various applications from game mods to networking APIs to discord bots.
-* Java: 2~ Years, Official education from college + self taught from Minecraft mods/plugins
-* JS/HTML/CSS: 2~ Years, Official education from college + high school
-* Python: 1~ Year, Official education from high school + scripting to get stuff done + some ML work
+* C#: 6+ Years, developing various applications from game mods to networking APIs to discord bots.
+* Java: 3~ Years, Official education from college + self taught from Minecraft mods/plugins
+* JS/HTML/CSS: 3~ Years, Official education from college + high school
+* Python: 2~ Year, Official education from high school + scripting to get stuff done + some ML work
 * PowerShell: ? Years, Self taught, learnt becuase its better than batch scripting
 
 # Contact
